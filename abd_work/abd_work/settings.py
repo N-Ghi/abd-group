@@ -20,6 +20,7 @@ LANGUAGE_CODE = 'en'
 LANGUAGES = [
     ('en', 'English'),
     ('fr', 'French'),
+    ('es', 'Spanish'), 
 ]
 
 TIME_ZONE = 'UTC'
